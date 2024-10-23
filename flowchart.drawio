@@ -202,6 +202,18 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="2YTAtl0gnqbYTawmnY1z-58" value="New Member Checklist" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-250" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2YTAtl0gnqbYTawmnY1z-59" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="2YTAtl0gnqbYTawmnY1z-58">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-60" y="250" as="sourcePoint" />
+            <mxPoint x="350" y="350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-190" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
